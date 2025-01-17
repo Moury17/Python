@@ -1,6 +1,3 @@
-import CSV as cs
-
-
 rock_samples = []
 
 def add_rock_sample(samples):
